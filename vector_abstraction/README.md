@@ -17,5 +17,5 @@ Screen Grab:
 
 Design notes:
 
-I found this task very challenging. The square is kind of delayed sometimes, and I could have kept developing it in terms of how zoomed in the pixels were and so on, but I am happy I could meet the requirements. 
+I found the task challenging as this was my first task when just understanding and getting into the coding language. It took forever for me to write the loop correctly and figure out how to randomize the colors. I am however, happy with the results. 
 
