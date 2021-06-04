@@ -2,16 +2,18 @@ Project 3 - Sound synthesizer
 
 Requirements:
 
-Written in Processing 3.5.4. No special libraries required.
+Written in Processing 3.5.4. Import processing.sound. 
 
 Operation:
 
 Run file in Processing.
 
-Hold mouse over picture to magnify pixels.
+Move mouse up and down to control volume. Move mouse left and right to control frequency. Press f and you will control the timbre. 
 
 Screen Grab:
 
-Screenshot 2021-06-04 at 13.38.14.pdf
+[Screenshot 2021-06-04 at 13.42.09.pdf](https://github.com/amalietm/sound-and-image-processing-/files/6598553/Screenshot.2021-06-04.at.13.42.09.pdf)
 
-Design notes: I found this task very challenging as I didn't know where to start. The square is kind of delayed sometimes, and I could have kept developing it in terms of how zoomed in the pixels were and so on, but I am happy I could meet the requirements.
+Design notes: 
+
+Working with sound was a challenge in itself as it was very different from working with pixels. Just understanding how it worked got me a long way. I had some trouble implementing the timbre aspect, but I believe I got there in the end. 
