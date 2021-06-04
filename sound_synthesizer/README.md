@@ -12,7 +12,8 @@ Move mouse up and down to control volume. Move mouse left and right to control f
 
 Screen Grab:
 
-[Screenshot 2021-06-04 at 13.42.09.pdf](https://github.com/amalietm/sound-and-image-processing-/files/6598553/Screenshot.2021-06-04.at.13.42.09.pdf)
+<img width="593" alt="Screenshot 2021-06-04 at 13 42 09" src="https://user-images.githubusercontent.com/79255624/120804215-503fcc00-c53c-11eb-8954-0046ea4af817.png">
+
 
 Design notes: 
 
