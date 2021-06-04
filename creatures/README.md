@@ -1,4 +1,4 @@
-**Project 5 - Creatures
+**Project 5 - Creatures**
 
 **Requirements:**
 
