@@ -13,7 +13,7 @@ No instruction needed.
 
 Screen Grab:
 
-[Screenshot 2021-06-04 at 13.30.42.pdf](https://github.com/amalietm/sound-and-image-processing-/files/6598464/Screenshot.2021-06-04.at.13.30.42.pdf)
+<img width="597" alt="Screenshot 2021-06-04 at 13 30 42" src="https://user-images.githubusercontent.com/79255624/120803736-c68ffe80-c53b-11eb-982d-204043991e63.png">
 
 Design notes:
 
