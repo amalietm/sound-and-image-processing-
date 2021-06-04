@@ -2,7 +2,7 @@ Project 1 - Vector abstraction
 
 Requirements:
 
-Written in ---
+Written in Processing 3.5.4. 
 No special librraies required. 
 
 Operation:
