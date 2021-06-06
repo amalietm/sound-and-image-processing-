@@ -19,7 +19,7 @@ No instruction needed.
 
 I took inspiration from Bridget Riley. I actually changed my inspiration midway as I wanted to work more within loops, not specific placement as my first choice. 
 
-_**First choice:** _    
+_**First choice:**_    
 
 <img width="213" alt="Screenshot 2021-06-06 at 21 09 13" src="https://user-images.githubusercontent.com/79255624/120938614-7d8ea480-c70b-11eb-8f7d-fc0b1771573f.png"> 
 
