@@ -1,19 +1,3 @@
 **Project 5 - Creatures**
 
-**Requirements:**
-
-Written in Processing 3.5.4. No special libraries required.
-
-**Operation:**
-
-Run file in Processing.
-
---- 
-
-**Screen Grab:**
-
----
-
-**Design notes:**
-
----
+I spent so much time on the falling leaves I simply didn't have time to really work on this task. 
