@@ -12,6 +12,7 @@ Run file in Processing. If 'r' is pressed, the animation is reset. If mouse is p
 
 <img width="771" alt="Screenshot 2021-06-10 at 14 03 56" src="https://user-images.githubusercontent.com/79255624/121529865-b9b85280-c9f4-11eb-81ff-88dc5fabdcdc.png">
 
+A video is included in file.
 
 **Design notes: **
 
